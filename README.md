@@ -1,4 +1,4 @@
-# Minimax and Alpha-Beta Pruning Visualiser
+# Minimax and Alpha-Beta Pruning Visualizer
 
 A single-file Python app that builds a random game tree and steps through **minimax** or **alpha-beta** search with a live tree view and step log.
 
