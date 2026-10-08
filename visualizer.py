@@ -1,7 +1,7 @@
 # Alpha-Beta / Minimax Visualizer
 #
 # Run:
-#     python alphabeta_visualizer.py
+#     python visualizer.py
 #
 # Set depth, branching factor, and the random integer range for leaves, then
 # click New Tree. Choose Minimax or Alpha-Beta and click Run. Step through
